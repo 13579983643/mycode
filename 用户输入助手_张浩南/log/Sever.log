@@ -1,0 +1,34 @@
+2019-06-22 15:28:01,909 [INFO] [src/MainServer.cpp:start:35] Server Started
+2019-06-22 15:28:02,256 [INFO] [src/MyDict.cpp:init:18] Dict Initializei.
+2019-06-22 15:28:02,257 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2019-06-22 15:28:02,257 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 15:28:02,257 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 15:28:02,258 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 15:28:02,258 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 15:28:06,515 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.209.128:9999 -> 192.168.209.128:55790 The link was established.
+2019-06-22 15:28:06,515 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2019-06-22 15:28:15,644 [WARN] [src/CacheManager.cpp:getCache:30] A new Cache was mapped to a thread.
+2019-06-22 15:28:15,671 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2019-06-22 15:28:17,267 [WARN] [src/CacheManager.cpp:periodcUpdate:90] 1 cache on disk updated.
+2019-06-22 16:02:19,083 [INFO] [src/MainServer.cpp:start:32] Server Started
+2019-06-22 16:02:19,415 [INFO] [src/MyDict.cpp:init:10] Dict Initialize.
+2019-06-22 16:02:19,416 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2019-06-22 16:02:19,416 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 16:02:19,416 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 16:02:19,417 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 16:02:19,417 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-22 16:02:24,418 [WARN] [src/CacheManager.cpp:periodcUpdate:48] No cache to update in this period.
+2019-06-22 16:02:29,418 [WARN] [src/CacheManager.cpp:periodcUpdate:48] No cache to update in this period.
+2019-06-22 16:02:29,713 [INFO] [src/MainServer.cpp:onConnection:10] 192.168.209.128:9999 -> 192.168.209.128:56546 The link was established.
+2019-06-22 16:02:29,713 [WARN] [src/TcpConnection.cpp:send:61] Message sent through socket8
+2019-06-22 16:02:34,179 [WARN] [src/CacheManager.cpp:getCache:30] A new Cache was mapped to a thread.
+2019-06-22 16:02:34,179 [WARN] [src/TcpConnection.cpp:send:61] Message sent through socket8
+2019-06-22 16:02:34,419 [WARN] [src/CacheManager.cpp:periodcUpdate:90] 1 cache on disk updated.
+2019-06-22 16:02:39,418 [WARN] [src/CacheManager.cpp:periodcUpdate:48] No cache to update in this period.
+2019-06-28 17:15:44,758 [INFO] [src/MainServer.cpp:start:32] Server Started
+2019-06-28 17:15:45,143 [INFO] [src/MyDict.cpp:init:10] Dict Initialize.
+2019-06-28 17:15:45,180 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2019-06-28 17:15:45,181 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-28 17:15:45,181 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-28 17:15:45,181 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2019-06-28 17:15:45,181 [WARN] [src/../include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
